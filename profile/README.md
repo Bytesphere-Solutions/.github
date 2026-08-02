@@ -18,7 +18,7 @@
 
 ## Who We Are
 
-**ByteSphere Solutions Pvt. Ltd.** is a premier technology partner that helps global companies and growing software organizations scale dedicated engineering divisions rapidly—without the operational, legal, and financial friction of establishing local offices.
+**ByteSphere Solutions Pvt. Ltd.** is a premier technology partner that helps global companies and growing software organizations scale dedicated engineering divisions rapidly, without the operational, legal, and financial friction of establishing local offices.
 
 Rather than acting as a traditional transactional outsourcing agency, Bytesphere structures **long-term, cohesive engineering capability** that integrates natively into our clients' roadmaps, workflows, and culture.
 
